@@ -37,3 +37,14 @@ C:\Users\shlif\OneDrive\Desktop\Github\AmongUsMemory\YourCheese\obj\Debug\YourCh
 C:\Users\shlif\OneDrive\Desktop\Github\AmongUsMemory\YourCheese\obj\Debug\YourCheese.csproj.CopyComplete
 C:\Users\shlif\OneDrive\Desktop\Github\AmongUsMemory\YourCheese\obj\Debug\YourCheese.exe
 C:\Users\shlif\OneDrive\Desktop\Github\AmongUsMemory\YourCheese\obj\Debug\YourCheese.pdb
+D:\Development\github\AmongUsMemory\YourCheese\bin\Debug\YourCheese.exe.config
+D:\Development\github\AmongUsMemory\YourCheese\bin\Debug\YourCheese.exe
+D:\Development\github\AmongUsMemory\YourCheese\bin\Debug\YourCheese.pdb
+D:\Development\github\AmongUsMemory\YourCheese\bin\Debug\AmongUsMemory.dll
+D:\Development\github\AmongUsMemory\YourCheese\bin\Debug\Memory.dll
+D:\Development\github\AmongUsMemory\YourCheese\bin\Debug\AmongUsMemory.pdb
+D:\Development\github\AmongUsMemory\YourCheese\obj\Debug\YourCheese.csprojAssemblyReference.cache
+D:\Development\github\AmongUsMemory\YourCheese\obj\Debug\YourCheese.csproj.CoreCompileInputs.cache
+D:\Development\github\AmongUsMemory\YourCheese\obj\Debug\YourCheese.csproj.CopyComplete
+D:\Development\github\AmongUsMemory\YourCheese\obj\Debug\YourCheese.exe
+D:\Development\github\AmongUsMemory\YourCheese\obj\Debug\YourCheese.pdb
