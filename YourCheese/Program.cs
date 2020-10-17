@@ -63,7 +63,7 @@ namespace YourCheese
 
         static void MurderPlayer( string[] aa )
         {
-            Cheese.GetSelf().MurderPlayer(Cheese.GetAllPlayers()[0]);
+            //Cheese.GetSelf().MurderPlayer(Cheese.GetAllPlayers()[0]);
         }
         static void getPlayerData(string[] aa)
         {
@@ -145,7 +145,8 @@ namespace YourCheese
 
                     while (rtkOn)
                     {
-                        me.WriteMemory_KillTimer(0);
+                        if (me.Instance.killTimer > 0)
+                            me.WriteMemory_KillTimer(0);
                         Thread.Sleep(400);
                     }
 
@@ -166,7 +167,6 @@ namespace YourCheese
         {
             PlayerData me = playerDatas.Where(x => x.IsLocalPlayer).First();
             Console.WriteLine("wr");
-            me.WriteMemory_Speed(speed);
         }
         static void Main(string[] args)
         {
@@ -176,8 +176,8 @@ namespace YourCheese
                 // Update Player Data When Every Game
                 HamsterCheese.AmongUsMemory.Cheese.ObserveShipStatus((x) =>
                 {
-
-                    Console.WriteLine(Utils.ReadString(Cheese.AmongUsClient().networkAddress) );
+                    
+                    //Console.WriteLine(Utils.ReadString(Cheese.AmongUsClient().networkAddress) );
 
                     foreach (var player in playerDatas)
                     {
